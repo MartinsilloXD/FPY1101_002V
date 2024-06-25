@@ -1,0 +1,5 @@
+TITULO	AUTOR	GENERO	PRECIO	STOCK	CANT. VENDIDA	VENTA TOTAL
+-------------------------------------------------------------------------------------------
+hola	hola	ficcion	$5000	2	4		$20000
+adios	adios	ciencia	$6000	3	1		$6000
+hakuna matata	martin	no ficcion	$10000	4	5		$50000
